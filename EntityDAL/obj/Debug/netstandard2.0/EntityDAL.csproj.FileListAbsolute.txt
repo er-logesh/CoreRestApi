@@ -1,0 +1,8 @@
+/home/logesh/CoreApp/EntityDAL/bin/Debug/netstandard2.0/EntityDAL.deps.json
+/home/logesh/CoreApp/EntityDAL/bin/Debug/netstandard2.0/EntityDAL.dll
+/home/logesh/CoreApp/EntityDAL/bin/Debug/netstandard2.0/EntityDAL.pdb
+/home/logesh/CoreApp/EntityDAL/obj/Debug/netstandard2.0/EntityDAL.csprojAssemblyReference.cache
+/home/logesh/CoreApp/EntityDAL/obj/Debug/netstandard2.0/EntityDAL.AssemblyInfoInputs.cache
+/home/logesh/CoreApp/EntityDAL/obj/Debug/netstandard2.0/EntityDAL.AssemblyInfo.cs
+/home/logesh/CoreApp/EntityDAL/obj/Debug/netstandard2.0/EntityDAL.dll
+/home/logesh/CoreApp/EntityDAL/obj/Debug/netstandard2.0/EntityDAL.pdb
